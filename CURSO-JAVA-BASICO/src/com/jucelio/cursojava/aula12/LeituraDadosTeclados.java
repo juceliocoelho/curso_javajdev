@@ -22,7 +22,7 @@ public class LeituraDadosTeclados {
         
         System.out.println("Digite a sua altura: ");
         double altura = scanner.nextDouble();
-        System.out.println("Sua idade é: " + altura);
+        System.out.println("Sua altura é: " + altura);
         System.out.println("Didite o seu primeiro nome , idade, quantidade de filhos, altura, e se tem bichinho de estimação ");
 	}
 
